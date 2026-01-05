@@ -1,0 +1,8 @@
+opencv-python-headless
+mediapipe
+numpy
+scikit-learn
+streamlit
+vosk
+pyttsx3
+sounddevice
