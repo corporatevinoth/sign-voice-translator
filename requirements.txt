@@ -6,3 +6,9 @@ streamlit
 vosk
 pyttsx3
 sounddevice
+streamlit
+streamlit-webrtc
+opencv-python-headless
+mediapipe
+tensorflow
+numpy
